@@ -1,13 +1,28 @@
 ---
 title: "Tetris Effect: Connected"
 description: >-
-  Porting Tetris Effect from the PlayStation to Xbox as a launch title for the Xbox Series X/S.
+  Block by Block: T-spinning Tetris Effect onto Xbox platforms.
 author: thomz12
-date: 2020-03-01 00:00:00 +0800
-categories: [Work]
+categories: [Professional, Portfolio]
 tags: [Unreal Engine, Console, Tetris Effect]
 pin: true
+image:
+  path: /assets/img/tetris_effect_connected.jpg
 ---
-[Tetris Effect: Connected](https://www.tetriseffect.game/)
 
-{% include embed/youtube.html id='glZpE3Gib1w' %}
+One of my responsibilities was to get Tetris Effect running on the Xbox One, the then not yet released Xbox Series X/S and with the Windows Store.
+It was a very interesting project to work on, especially since it was a launch title for the new Xbox. 
+We worked on the 'Connected' part of the game, which was the new multiplayer functionality that wasn't in the original version.
+
+After a successful release of the Xbox version, I worked on the cross-play functionality between all the platforms. This also included the PlayStation consoles, Nintendo Switch, Meta (Oculus) Quest and Windows. 
+The third-party software we used for networking was very new, and had very limited support on the newer consoles and with Unreal which made for an interesting challange.
+
+{% include custom/game-showcase.html 
+  name='Tetris Effect: Connected' 
+  trailer='glZpE3Gib1w'
+  publisher='Enhance'
+  engine='Unreal Engine'
+  genre='Puzzle/Action'
+  platforms='Xbox One, Xbox Series X/S, PlayStation 4, PlayStation 5, Windows, Nintendo Switch, Meta Quest'
+  website='https://www.tetriseffect.game/'
+%}

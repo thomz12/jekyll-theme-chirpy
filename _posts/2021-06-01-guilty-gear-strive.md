@@ -1,18 +1,27 @@
 ---
 title: "Guilty Gear -Strive-"
 description: >-
-  Connecting mankind over multiple platforms so they can blame the beasts.
+  Heaven or Hell: Connecting mankind and blaming the beasts across platforms.
 author: thomz12
-date: 2021-06-01 00:00:00 +0800
-categories: [Work]
+categories: [Professional, Portfolio]
 tags: [Unreal Engine, Console, Guilty Gear]
 pin: true
+image:
+  path: /assets/img/guilty_gear_strive.jpg
 ---
 
-- **Developer:** Arc System Works
-- **Platforms:** PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Windows, Arcade, Nintendo Switch
-- **Engine:** Unreal Engine
-- **Genre:** Fighting
-- **Website:** [guiltygear.com](https://www.guiltygear.com/ggst/en/)
+For Guilty Gear I worked on the Xbox and Windows Store port. It was originally only on PlayStation 4 and Steam. The Xbox Series X/S was out a little longer by this point, which made development a lot smoother.
 
-{% include embed/youtube.html id='aiye1wAjYbY' %}
+The work I did here was very varied. It started off by just getting the game to run on Xbox hardware, and then implementing Xbox specific features one by one. As always, the technical requirements set by Microsoft require a lot of attention so 
+a lot of my time was spent on that as well. Our engine version was a little behind, so in many cases I had to update parts of the engine to get newer features to work.
+
+
+{% include custom/game-showcase.html 
+  name='Guilty Gear -Strive-' 
+  trailer='aiye1wAjYbY'
+  publisher='Arc System Works'
+  engine='Unreal Engine'
+  genre='Fighting'
+  platforms='PlayStation 4, PlayStation 5, Xbox One, Xbox Series X/S, Windows, Arcade, Nintendo Switch'
+  website='https://www.guiltygear.com/ggst/en/'
+%}
