@@ -13,7 +13,7 @@ image:
 For Guilty Gear I worked on the Xbox and Windows Store port. It was originally only on PlayStation 4 and Steam. The Xbox Series X/S was out a little longer by this point, which made development a lot smoother.
 
 The work I did here was very varied. It started off by just getting the game to run on Xbox hardware, and then implementing Xbox specific features one by one. As always, the technical requirements set by Microsoft require a lot of attention so 
-a lot of my time was spent on that as well. Our engine version was a little behind, so in many cases I had to update parts of the engine to get newer features to work.
+a lot of my time was spent on that as well. The version of Unreal we used was lacking a lot of features we needed for newer consoles, so often we'd have to port over or write implementations ourselves.
 
 
 {% include custom/game-showcase.html 

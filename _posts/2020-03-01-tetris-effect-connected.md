@@ -10,12 +10,12 @@ image:
   path: /assets/img/tetris_effect_connected.jpg
 ---
 
-One of my responsibilities was to get Tetris Effect running on the Xbox One, the then not yet released Xbox Series X/S and with the Windows Store.
+One of my responsibilities was to get Tetris Effect running on the Xbox One, the then not yet released Xbox Series X/S, and with the Windows Store.
 It was a very interesting project to work on, especially since it was a launch title for the new Xbox. 
 We worked on the 'Connected' part of the game, which was the new multiplayer functionality that wasn't in the original version.
 
-After a successful release of the Xbox version, I worked on the cross-play functionality between all the platforms. This also included the PlayStation consoles, Nintendo Switch, Meta (Oculus) Quest and Windows. 
-The third-party software we used for networking was very new, and had very limited support on the newer consoles and with Unreal which made for an interesting challange.
+After a successful release of the Xbox version, I worked on the cross-play functionality between all the platforms. This also included the PlayStation consoles, Nintendo Switch, Meta (Oculus) Quest, and Windows. 
+The third-party software we used for networking was very new and had very limited support on the newer consoles and with Unreal, which made for an interesting challenge.
 
 {% include custom/game-showcase.html 
   name='Tetris Effect: Connected' 
